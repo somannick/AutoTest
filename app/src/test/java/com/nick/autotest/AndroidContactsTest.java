@@ -1,8 +1,5 @@
-package com.example;
+package com.nick.autotest;
 
-
-
-import io.appium.java_client.android.AndroidDriver;
 
 import org.junit.After;
 import org.junit.Before;
@@ -15,6 +12,8 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import java.io.File;
 import java.net.URL;
 import java.util.List;
+
+import io.appium.java_client.android.AndroidDriver;
 
 
 public class AndroidContactsTest {
